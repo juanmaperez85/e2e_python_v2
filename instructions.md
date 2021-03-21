@@ -6,9 +6,18 @@ Is a framework for automating browser interactions. More information can be foun
 
 Is a framework for BDD (Behaviour-Driven Development). It is a common language syntax which can be used to define steps for end to end tests. It's documentation can be found [here](https://behave.readthedocs.io/en/latest/)
 
+## Preconditions
+Create a virtual environment
+
+`virtualenv -p python3 _env`
+
 ## Getting Started
 
-Fork the repo. Clone and navigate into the repository and run `pip3 install -r requirements.txt`.
+Fork the repo and clone it.
+
+Activate the virtual environment
+
+Then, navigate into the repository and run `pip3 install -r requirements.txt`.
 
 If you are new to selenium, you must setup your webdrivers. It is best to use a package manager to manage webdrivers. Chrome is a ubiquitous browser, therefore we will walk through some steps to setup a chrome testing environment. You must have chrome downloaded and installed, and will also need to get a version of the chromedriver.
 
