@@ -1,0 +1,13 @@
+{
+  "user": "juanmperez85@hotmail.com",
+  "password": "museococonut",
+  "url": "https://pro.packlink.es",
+  "shipment-url": "https://pro.packlink.es/private/shipments/all/",
+  "register-url": "https://pro.packlink.es/registro",
+  "login-url": "https://auth.packlink.com/es-ES/pro/login?platform=PRO&platform_country=ES",
+  "logout-url": "https://auth.packlink.com/es-ES/logout?platform=PRO&platform_country=ES",
+  "create-url": "https://pro.packlink.es/private/shipments/create/info",
+  "draft-url": "https://pro.packlink.es/private/shipments/draft/",
+  "browser": "chrome",
+  "driver_timeout": "5"
+}
